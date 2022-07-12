@@ -1,3 +1,5 @@
+https://play.unity.com/mg/other/webgl-uz5
+
 In Interstellar Hangover, you are an alien who has done some unspeakable things during an
 all-out bender with a space prince. Your goal is to find out what you did that made so many
 people want to kill you and to find your way home. Subgoals include finding out the mischief
